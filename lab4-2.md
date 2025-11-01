@@ -17,4 +17,4 @@ std::endl;
     return 0;
 }
 ```
-![Изображение](https://villains.fandom.com/wiki/Jetstream_Sam)
+![Изображение](image.png)
